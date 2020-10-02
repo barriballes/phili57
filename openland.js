@@ -1,5 +1,5 @@
 function openLand() {
 
-    window.open('./page-2/index.php','_self');
+    window.open('https://healthblogmanila.pw/PH-eco/ph-dtx-57-land/','_self');
         
     }
